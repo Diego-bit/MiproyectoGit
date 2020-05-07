@@ -1,5 +1,5 @@
-function hola(){
+function Hola(){
 
     let nombre= prompt("Quien eres");
-    alert('Hola ${nombre}, bienvenido!');
+    alert(`hola ${nombre} bienvenido`);
 }
