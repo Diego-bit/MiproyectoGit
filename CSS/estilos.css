@@ -1,0 +1,32 @@
+header{
+
+    width: 860px;
+    margin: 0 auto;
+    padding: 50px;
+    background-color: #ffffff;
+    border: 1px solid blue;
+    border-radius: 10px;
+    font-weight: bold;
+    text-align: center;
+
+
+}
+
+div{
+    width: 860px;
+    margin: 0 auto;
+    padding: 50px;
+    text-align: center;
+}
+
+button{
+
+    padding: 20px;
+    font-weight: bold;
+}
+
+button:hover{
+
+    background-color: black;
+    color: white;
+}
